@@ -19,18 +19,20 @@ body {
   padding-bottom: 5px;
 }
 
-#div-img {
+#img-div {
   background-color: white;
   padding: 10px 0;
   margin: 0 10px;
   border-radius: 5px;
 }
 
-#img {
+#image {
   width:200%;
   max-width: 70%;
   height: auto;
   border-radius: 5px;
+  display: block;
+  margin: 0 auto;
 }
 
 #tribute-info {
