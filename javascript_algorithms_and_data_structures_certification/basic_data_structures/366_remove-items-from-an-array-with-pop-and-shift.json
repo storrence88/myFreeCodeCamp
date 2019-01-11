@@ -1,0 +1,1 @@
+{"index.js":"function popShift(arr) {\n  let popped; // change this line\n  let shifted; // change this line\n  shifted = arr.shift();\n  popped = arr.pop();\n  return [shifted, popped];\n}\n\n// do not change code below this line\nconsole.log(popShift(['challenge', 'is', 'not', 'complete']));"}
